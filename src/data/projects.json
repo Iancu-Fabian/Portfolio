@@ -1,0 +1,19 @@
+[
+  {
+    "title": "Habit Flow",
+    "imageSrc": "projects/habitflow.png",
+    "description": "Web app that allows users to create accounts and enter their habits. They can track whether or not they have completed them and see a statistic based on the input.",
+    "skills": ["Python (Flask)", "Bootstrap", "JavaScript"],
+    "demo": "https://iancufabian45.pythonanywhere.com/",
+    "source": "https://github.com/Iancu-Fabian/Proiect-Python"
+  },
+  {
+    "title": "Resilient",
+    "imageSrc": "projects/resilient.png",
+    "description": "Fitness online shop that allows users to create an account and 'buy' different products. Redirects users to Stripe test payment proccessor after checkout.",
+    "skills": ["Python (Flask)", "Bootstrap", "JavaScript"],
+    "demo": "https://iancufabian.pythonanywhere.com/",
+    "source": "https://www.github.com"
+  }
+  
+]

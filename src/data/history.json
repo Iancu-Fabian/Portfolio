@@ -1,0 +1,29 @@
+[
+  {
+    "role": "RoboChallenge Referee",
+    "organisation": "",
+    "startDate": "2023",
+    "endDate": "",
+    "experiences": ["Refereed for the biggest robotics competition in Romania.", "Learned to function under pressure and make fast decisions."],
+    "imageSrc": "history/robo.png"
+  },
+  {
+    "role": "Board member for the League of Electronics Students",
+    "organisation": "",
+    "startDate": "2022-2023",
+    "endDate": "",
+    "experiences": ["Helped manage a 200+ member student organization.", " Learned to function within a team and to lead a group effectively"],
+    "imageSrc": "history/lse.png"
+  },
+  {
+    "role": "Erasmus+ exchange programs",
+    "organisation": "",
+    "startDate": "2018-2022",
+    "endDate": "",
+    "experiences": [
+      "Went to 6 different Erasmus+ short programs in multiple countries",
+      "Learned to be a better public speaker and communicator "
+    ],
+    "imageSrc": "history/erasmus.png"
+  }
+]
